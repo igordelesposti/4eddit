@@ -1,7 +1,8 @@
 # 4eddit
 
-![Alt text](https://user-images.githubusercontent.com/56797122/88702586-e5369500-d0e1-11ea-8776-7968a0c49a16.gif)
+![Alt text](https://user-images.githubusercontent.com/56797122/88702586-e5369500-d0e1-11ea-8776-7968a0c49a16.gif)<br>
 
+[Deploy-Firebase](https://frontend-4eddit.web.app)
 ## General Info
 
 Implementation of a really functional social network (with registration, login, posts, likes, dislikes and comments) based on reddit.com.
